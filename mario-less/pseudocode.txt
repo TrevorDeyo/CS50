@@ -1,0 +1,11 @@
+
+BEFORE SEEING THE EXAMPLE
+ask user for input on how many "blocks/#" tall they want the pyramid
+
+while loop that prints # and adds 1 until the input ammout was reached (8 max)
+
+AFTER SEEING EXAMPLE
+1. ask user for input on how many "blocks/#" high they want the pyramid
+2. if the imput is not 1 to 8 or anything that isn't a interger then back to step 1
+3. loop that prints # and increases by 1 until the input ammout
+4. for spaces take the height and subtract it by 1 and decrease by 1 per loop.
